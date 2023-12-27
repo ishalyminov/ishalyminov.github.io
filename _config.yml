@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://fb.com/igor.shalyminov"
   foursquare       :
   github           : "ishalyminov"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ishalyminov"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ishalyminov"
+  orcid            : "https://orcid.org/0000-0001-9664-1774"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "pure_virtual"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
