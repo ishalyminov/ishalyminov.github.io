@@ -2,16 +2,16 @@
 	"name": "Minimal Mistakes",
 	"icons": [
 		{
-			"src": "\/images\/android-chrome-36x36.png?v=M44lzPylqQ",
-			"sizes": "36x36",
+			"src": "\/images\/favicon-16x16.png?v=M44lzPylqQ",
+			"sizes": "16x16",
 			"type": "image\/png",
-			"density": 0.75
+			"density": 0.5
 		},
 		{
-			"src": "\/images\/android-chrome-48x48.png?v=M44lzPylqQ",
-			"sizes": "48x48",
+			"src": "\/images\/favicon-32x32.png?v=M44lzPylqQ",
+			"sizes": "32x32",
 			"type": "image\/png",
-			"density": 1
+			"density": 0.75
 		},
 		{
 			"src": "\/images\/android-chrome-72x72.png?v=M44lzPylqQ",
@@ -36,6 +36,12 @@
 			"sizes": "192x192",
 			"type": "image\/png",
 			"density": 4
-		}
+		},
+		{
+                        "src": "\/images\/android-chrome-512x512.png?v=M44lzPylqQ",
+                        "sizes": "512x512",
+                        "type": "image\/png",
+                        "density": 5 
+                }
 	]
 }
