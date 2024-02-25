@@ -11,30 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computer Science, Heriot-Watt University, 2020
+* MSc (professional re-training) in Computer Science, Yandex Data Analysis School / Moscow Institute of Physics and Technology, 2012
+* Specialist (MSc eqiv.) in Computer Science, Moscow State University in Instrument Engineering and Computer Science, 2010
+   * with distinction (GPA 5/5)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 — now: Applied Scientist
+  * Amazon
+  * Conversational NLP at AWS Lex / ContactLens
+  * Low-resource ASR at Alexa AI
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019: Research Intern
+  * Microsoft Research Lab – Montréal
+  * Dialog System Technology Challenge (DSTC) 8 Fast Domain Adaptation Task - best performing system as per human judges 
+  * Supervisors: Dr. Hannes Schulz, Dr. Alessandro Sordoni
+
+* Summer 2018: Research Intern
+  * Microsoft Research Lab – Redmond
+  * Project title: Improving Out-of-Domain Robustness of Task-Oriented Dialogue Systems  
+  * Supervisor: Dr. Sungjin Lee
+
+* 2013 — 2016: Software Engineer
+  * Yandex
+  * Task-oriented dialogue platform Yandex.Dialogs
+  * Voice analytics for call-centers
+  * Search engine for [Russian National Corpus](https://ruscorpora.ru)
+
+* 2013 — 2015: Teaching Assistant
+  * Yandex Data Analysis School / Moscow Institute of Physics and Technology
+  * Natural Language Processing course
+
+* Summer 2014: Research Intern
+  * Microsoft Research Lab – Redmond
+  * Project title: Optimizing Query Processing Time in A Term-Disrtibuted Search Engine 
+  * Supervisor: Dr. Yuxiong He, Dr. Sameh Elnikety
+
+* 2011 — 2012: Software Engineer Intern --> Junior Software Engineer
+  * Yandex
+  * N-gram storage & search engine for Russian National Corpus
+  * Supervisor: Dr. Alexey Zobnin
+
+* Summer 2010: Software Engineer Intern
+  * Intel
+  * Project title: Loop execution time analysis in Intel C++ optimizing compiler 
+  * Supervisor: Dr. Denis Makoshenko
+
+* 2006 — 2012: Software Engineer
+  * Moscow State university of Instrument Engineering and Computer Science
+  * Project title: "Prognosis" software suite for reliability estimation in nuclear energetics
 
 Publications
 ======
