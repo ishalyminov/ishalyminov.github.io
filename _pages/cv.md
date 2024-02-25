@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[[Get CV in pdf]](/Igor_Shalyminov.pdf)
+======
+
 Education
 ======
 * PhD in Computer Science, Heriot-Watt University, 2020
