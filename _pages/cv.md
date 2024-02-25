@@ -15,6 +15,9 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science, Heriot-Watt University, 2020
+  * Thesis: [Data-Efficient Methods for Dialogue Systems](https://arxiv.org/abs/2012.02929)
+  * Supervisors: Prof Oliver Lemon, Dr Arash Eshghi
+  * Examiners: Dr Andreas Vlachos, Dr Ioannis Konstas
 * MSc (professional re-training) in Computer Science, Yandex Data Analysis School / Moscow Institute of Physics and Technology, 2012
 * Specialist (MSc eqiv.) in Computer Science, Moscow State University of Instrument Engineering and Computer Science, 2010
    * with distinction (GPA 5/5)
