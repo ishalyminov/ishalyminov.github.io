@@ -68,18 +68,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Professional Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Program committee/reviewing:
+AAAI 2020---2024, EACL 2021, ICASSP 2023---2024, ACL 2018---2023, EMNLP 2018---2023, NAACL Main/Industry 2021---2024, COLING 2018---2022, IEEE/ACM TASLP 2021---2022, SCAI@EMNLP 2020, SCAI@IJCAI 2019, SCAI@EMNLP 2018, COLM 2024
