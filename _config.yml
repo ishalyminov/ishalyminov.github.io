@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Igor Shalyminov"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Igor Shalyminov"
 description              : &description "Applied Scientist at Amazon AWS AI Labs"
 url                      : https://shalyminov.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
