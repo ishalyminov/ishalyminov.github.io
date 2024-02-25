@@ -16,6 +16,14 @@ Education
 * Specialist (MSc eqiv.) in Computer Science, Moscow State University of Instrument Engineering and Computer Science, 2010
    * with distinction (GPA 5/5)
 
+Awards
+======
+* Dialog System Technology Challenge (DSTC) 8, Fast Domain Adaptation — 1st place (2019)
+* Amazon Alexa Prize 2018 (part of team Alana) — 3rd place prize (2018)
+* Amazon Alexa Prize 2017 (part of team What's Up Bot / Alana) — 3rd place prize (2017)
+* James Watt Scholarship from Heriot-Watt University (2016)
+* Featured in Moscow's Best Graduates journal (2010)
+
 Work experience
 ======
 * 2021 — now: Applied Scientist, **Amazon**
