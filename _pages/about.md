@@ -12,4 +12,4 @@ I'm Igor, an applied scientist at Amazon Alexa working on Conversational LLM Age
 
 You can find my CV pdf [here](/Igor_Shalyminov.pdf).
 
-🧢👕 **Want to grab some t-shirts I made featuring my favorite things in the US?** Check out my merch store on TeePublic: [https://www.teepublic.com/user/pure-virtual](https://www.teepublic.com/user/pure-virtual) 🎨🛍️
+🚅🚌 **I'm also a fan of public transport and so much so I made T-shirt designs with the logos of some transportation systems here in the US.** I wear one of those myself and you can do too - check out my merch page on TeePublic, they can work as a nice and exclusive gift: [https://www.teepublic.com/user/pure-virtual](https://www.teepublic.com/user/pure-virtual) 🎨🛍️
