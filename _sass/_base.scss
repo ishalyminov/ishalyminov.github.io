@@ -5,6 +5,10 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background: radial-gradient(ellipse at center, #ffffff 0%, #e8f4f8 50%, #b8d4e0 100%);
+  background-size: 200% 200%;
+  background-attachment: fixed;
+  animation: gradient-move 15s ease infinite;
 }
 
 body {
@@ -14,9 +18,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  background: radial-gradient(ellipse at center, #ffffff 0%, #e8f4f8 50%, #b8d4e0 100%);
-  background-size: 200% 200%;
-  animation: gradient-move 15s ease infinite;
+  background: transparent;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
