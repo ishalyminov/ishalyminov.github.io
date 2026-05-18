@@ -32,9 +32,13 @@ Awards
 
 Work experience
 ======
-* 2021 — now: Applied Scientist, **Amazon**
-  * Conversational NLP at AWS Lex / ContactLens
-  * Low-resource ASR at Alexa AI
+* 2026 — now: Machine Learning Research Engineer, **Scale AI**
+* LLM Agents R&D at Scale AI Enterprise Research
+
+* 2021 — 2026: Applied Scientist, **Amazon**
+* Conversational NLP at AWS Lex / ContactLens
+* Low-resource ASR at Alexa AI
+* Agentic tool calling at Alexa+
 
 * Summer 2019: Research Intern, **Microsoft Research Lab – Montréal**
   * Dialog System Technology Challenge (DSTC) 8 Fast Domain Adaptation Task - best performing system as per human judges 
