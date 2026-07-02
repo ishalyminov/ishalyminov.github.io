@@ -51,9 +51,6 @@ You can find my CV pdf [here](/Igor_Shalyminov.pdf).
 <div class="project-grid">
 
   <div class="project-card">
-    <a href="https://www.teepublic.com/user/pure-virtual" target="_blank">
-      <img src="https://images.teepublic.com/image/138491245_merchant_375x375/teacher-t-shirt.jpg" alt="T-shirt Designs">
-    </a>
     <h3>🚅🚌 T-shirt Designs</h3>
     <p>Fan of public transport? Check out my merch page on TeePublic!</p>
     <a href="https://www.teepublic.com/user/pure-virtual" class="btn" target="_blank">View on TeePublic 🎨🛍️</a>
